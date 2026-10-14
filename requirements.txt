@@ -1,0 +1,10 @@
+requests
+fastapi
+uvicorn[standard]
+redis
+python-dotenv
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+sentence-transformers
+psycopg[binary]
